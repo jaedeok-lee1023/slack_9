@@ -38,7 +38,7 @@ def main():
             f"감사합니다.\n"
         )
  
-# 메시지 본문
+        # 메시지 본문
         body = header + notice_msg
 
         # 슬랙 채널에 전송
