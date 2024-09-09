@@ -14,7 +14,7 @@ def send_slack_message(message, channel):
         client = WebClient(token=SLACK_TOKEN)
         client.chat_postMessage(channel=channel, text=message)
     except SlackApiError as e:
-        print(f"Error sending message to {channel} : {e}")0
+        print(f"Error sending message to {channel} : {e}")
 def main():
     for cluster in clusters:
         # 메시지 제목 설정
@@ -38,7 +38,7 @@ def main():
             f"감사합니다.\n"
         )
  
-        # 메시지 본문
+# 메시지 본문
         body = header + notice_msg
 
         # 슬랙 채널에 전송
