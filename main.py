@@ -2,7 +2,7 @@ import requests
 import os
 
 # Slack Bot Token 및 채널 설정
-SLACK_BOT_TOKEN = "xapp-1-A07KTA1U18B-8111123509140-a63beec277745ec4b2a567686b86fa7cf609b7deafeab2634ade2d91e6938320"  # Slack Bot Token (xoxb로 시작)
+SLACK_BOT_TOKEN = "xoxb-4829346280432-7676013633684-81hS7JQ1XdUx3dKkVu2azKt0"  # Slack Bot Token (xoxb로 시작)
 SLACK_CHANNEL = "C083DC5L2V8"  # 전송할 채널 이름 (예: #general)
 FILE_PATH = "C:/Users/Kurly/Downloads/Kurly Introduction_국문_241119_aT_final.pdf"  # 전송할 파일 경로 (예: "C:/Users/Example/Documents/test.png")
 
