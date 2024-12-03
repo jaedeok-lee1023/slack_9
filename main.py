@@ -2,8 +2,8 @@ import requests
 import os
 
 # 환경 변수로 토큰과 채널 ID를 가져옵니다.
-SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_TOKEN")  # 환경 변수에서 가져옴
-SLACK_CHANNEL = os.getenv("SLACK_CHANNEL")  # 채널 ID를 환경 변수로 가져옴
+SLACK_BOT_TOKEN= "your-slack-bot-token"
+SLACK_CHANNEL = "C083DC5L2V8"
 FILE_PATH = "C:/Users/Kurly/Downloads/Kurly Introduction_국문_241119_aT_final.pdf"  # 파일 경로
 
 def upload_file_to_slack(file_path, channel, token):
