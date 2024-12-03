@@ -3,7 +3,7 @@ import requests
 # Slack Bot Token 및 채널 설정
 SLACK_BOT_TOKEN = "xoxb-your-slack-bot-token"
 SLACK_CHANNEL = "#슬랙-봇-테스트4"  # 원하는 채널 이름
-FILE_PATH = "C:\\Users\\Kurly\\Downloads\\Kurly Introduction_국문_241119_aT_final.pdf"  # 전송할 파일 경로
+FILE_PATH = "‪C:\Users\Kurly\Downloads\Kurly Introduction_국문_241119_aT_final.pdf"  # 전송할 파일 경로
 
 def upload_file_to_slack(file_path, channel, token):
     """
