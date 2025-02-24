@@ -38,6 +38,7 @@ def main():
             f"\n\n"
             f"기타 문의 사항은 인사총무팀 으로 연락 바랍니다.\n"
             f"*세부사항은* <https://sites.google.com/kurlycorp.com/hr-system/%EC%9D%B8%EC%82%AC%EA%B7%BC%EB%AC%B4%EC%A0%9C%EB%8F%84/%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8?authuser=0|컬리 인사잡학사전 모성보호 제도> 를 *참고해주시길 바랍니다.*\n\n"
+            f"*2025년 02월 23일 부터 육아지원제도가 변경 되었으며 첨부된 카드뉴스를 통해 확인 하실 수 있습니다!! <https://50072f98-e1d6-4b35-b1e5-5564ad1fcebf.usrfiles.com/ugd/50072f_763873d7e3c447c3960e863ea0b601f0.pdf|육아지원제도_변경사항_안내>* :point_left: *(Click)*\n"
             f"감사합니다.\n"
         )
 
